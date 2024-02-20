@@ -21,7 +21,7 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gyanbhartip/gyanbhartip/blob/main/devcard.svg" width="400" alt="Gyan Bharti's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gyanbhartip/gyanbhartip/blob/main/devcard.png" width="400" alt="Gyan Bharti's Dev Card"/></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gyanbhartip&icon=0&color=0)](https://visitcount.itsvg.in)
